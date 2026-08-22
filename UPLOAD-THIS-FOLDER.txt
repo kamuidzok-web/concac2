@@ -1,0 +1,18 @@
+UPLOAD TO GITHUB
+
+Upload the CONTENTS of this folder into the ROOT of your GitHub repository.
+
+Do NOT create:
+TASKVN-GitHub-Ready/TASKVN-GitHub-Ready/...
+
+The GitHub repository root should directly contain:
+- app
+- .github
+- build.gradle
+- settings.gradle
+- gradle.properties
+- README.md
+- .gitignore
+
+Then open:
+GitHub -> Actions -> Build TASKVN APK -> Run workflow
